@@ -33,6 +33,6 @@ MSc thesis: "Systematic analysis of the mitochondria-autophagy activity in yeast
 Laboratory of Molecular Biology and Biotechnology of RNA.  
 BS thesis: "Molecular markers for the study of ovule development in *Arabidopsis thaliana*.  
 
-You can find my complete Resume [here]((https://github.com/danieldavilaaleman/danieldavilaaleman.github.io/blob/main/assets/img/CV_CompBiol_2025.pdf).
+You can find my complete Resume [here](https://github.com/danieldavilaaleman/danieldavilaaleman.github.io/blob/main/assets/img/CV_CompBiol_2025.pdf)
 
 
