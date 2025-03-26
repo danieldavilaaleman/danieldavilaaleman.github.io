@@ -9,6 +9,6 @@ From 2010 to 2015, I studied Biotechnological Engineering at the National Polyte
 
 In my postdoctoral work, I am developing novel experimental and bioinformatic approaches to studying the Canadian Arctic microbiome and its ecological and evolutionary responses to environmental contamination and rising temperatures. You can read more about my recent publication [here](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16688). Additionally,I collaborated with a Canadian startup to develop novel bioinformatics methods to identify microbes associated with various human diseases from gut and skin microbiome samples.
 
-![alt text](/assets/img/publication1.png)
+![alt text](/assets/img/publication1-2.png)
 
 # Research
